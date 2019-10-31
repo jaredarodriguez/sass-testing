@@ -1,0 +1,12 @@
+
+@import './variables';
+@import './header';
+
+.contact {
+    @extend header; 
+    background: lightcoral; 
+    background: rgb(109, 25, 25); 
+    width: 40% + 20%; 
+}
+
+ 
